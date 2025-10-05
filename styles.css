@@ -1,11 +1,11 @@
 h1 {
-    font-size: 30px;
-    font-family: 'Courier New', Courier, monospace;
-    text-align: left;
-    cursor: pointer;
+  font-size: 30px;
+  font-family: initial;
+  text-align: left;
+  cursor: pointer;
 }
 
 .webtitle {
-    text-decoration: none;
-    color: rgb(133, 161, 32);
+  text-decoration: none;
+  color: rgb(133, 161, 32);
 }
